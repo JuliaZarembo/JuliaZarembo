@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JuliaZarembo
-- 👀 I’m interested in marketing
-- 🌱 I’m currently learning JavaScript/Front-end
-- 💞️ I’m looking to collaborate with the universe)
-- 📫 How to reach me: juliazarembo@gmail.com, @juliazarembo
+👋 Hi, I’m Julia Zarembo.
+👀 Exploring the intersection of marketing, product development, content, and business.
+🌱 Currently contributing to Mara.fm and learning as I go.
+💞️ Interested in meaningful products, creative ideas, and collaboration.
+📫 Reach me at juliazarembo@gmail.com
 
 <!---
 JuliaZarembo/JuliaZarembo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
